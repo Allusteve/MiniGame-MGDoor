@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1a80aee2cec4d42a4771ffa29363d9, type: 3}
+  m_Name: dog_Data
+  m_EditorClassIdentifier: 
+  dataName: dog
+  dragonBonesJSON: {fileID: 4900000, guid: 84efb90df451f9b4a855bb2ef76e163a, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 9a3a51ce7842b0e44877f3b2b7cc90d7, type: 3}
+    texture: {fileID: 2800000, guid: b49d2b50e9d817240968538d2fa2fc80, type: 3}
+    material: {fileID: 2100000, guid: 4de00b33454ad4d439369efb955059ac, type: 2}
+    uiMaterial: {fileID: 0}

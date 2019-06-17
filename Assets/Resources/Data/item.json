@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 1,
+    "Name": "已用尽的灭火器",
+    "Detail": "它看起来是个灭火器，实际上只能用来砸门",
+    "Path": "Images/Items/exhausted_fire_extinguisher"
+  },
+  {
+    "ID": 2,
+    "Name": "毛巾",
+    "Detail": "用这条毛巾捂住眼睛，等待救援吧",
+    "Path": "Images/Items/dry_towel"
+  },
+  {
+    "ID": 3,
+    "Name": "湿毛巾",
+    "Detail": "水是生命之源，湿毛巾可以用来捂脸，干的不行",
+    "Path": "Images/Items/wet_towel"
+  },
+  {
+    "ID": 4,
+    "Name": "消防锤",
+    "Detail": "比起灭火器，用这个砸门似乎更加专业",
+    "Path": "Images/Items/fire_hammer"
+  },
+  {
+    "ID": 5,
+    "Name": "衣服",
+    "Detail": "怎么没有女装呢?",
+    "Path": "Images/Items/normal_clothes_1"
+  },
+  {
+    "ID": 6,
+    "Name": "2件衣服结成的绳子",
+    "Detail": "似乎并不够长",
+    "Path": "Images/Items/rope_made_from_2_clothes"
+  },
+  {
+    "ID": 7,
+    "Name": "3件衣服结成的绳子",
+    "Detail": "似乎还是不够长",
+    "Path": "Images/Items/rope_made_from_3_clothes"
+  },
+  {
+    "ID": 8,
+    "Name": "4件衣服结成的绳子",
+    "Detail": "用这个下楼肯定摔不死",
+    "Path": "Images/Items/rope_made_from_4_clothes"
+  },
+  {
+    "ID": 9,
+    "Name": "可乐",
+    "Detail": "不仅可以喝，还能用来润湿毛巾",
+    "Path": "Images/Items/cola"
+  },
+  {
+    "ID": 10,
+    "Name": "用可乐润湿的毛巾",
+    "Detail": "味道可比拖地的水好多了",
+    "Path": "Images/Items/wet_towel_with_cola"
+  },
+  {
+    "ID": 11,
+    "Name": "铝制长梯",
+    "Detail": "能共你，沿途来爬天梯，黑夜亦亮丽",
+    "Path": "Images/Items/aluminum_long_ladder"
+  },
+  {
+    "ID": 12,
+    "Name": "泛黄的纸条碎片",
+    "Detail": "看起来似乎有点年头了",
+    "Path": "Images/Items/paper1"
+  },
+  {
+    "ID": 13,
+    "Name": "破旧的纸条碎片",
+    "Detail": "多谢乌蝇哥！",
+    "Path": "Images/Items/paper2"
+  },
+  {
+    "ID": 14,
+    "Name": "褶皱的纸条碎片",
+    "Detail": "这要是张人民币就好了",
+    "Path": "Images/Items/paper3"
+  },
+  {
+    "ID": 15,
+    "Name": "有异味的纸条碎片",
+    "Detail": "似乎有种特殊的味道",
+    "Path": "Images/Items/paper4"
+  },
+  {
+    "ID": 16,
+    "Name": "拼凑出来的纸条",
+    "Detail": "上面写着一串莫名其妙的数字：20160607",
+    "Path": "Images/Items/paper"
+  },
+  {
+    "ID": 17,
+    "Name": "冻猪肉",
+    "Detail": "刚从冰箱里拿出来的猪肉",
+    "Path": "Images/Items/frost_pork"
+  },
+  {
+    "ID": 18,
+    "Name": "猪肉",
+    "Detail": "刚加热好的猪肉，香气弥漫",
+    "Path": "Images/Items/heat_pork"
+  },
+  {
+    "ID": 19,
+    "Name": "猫粮",
+    "Detail": "铲屎官牌猫粮，猫咪最爱",
+    "Path": "Images/Items/cat_food"
+  },
+  {
+    "ID": 20,
+    "Name": "钥匙",
+    "Detail": "把他丢到围墙外，门自然就开了",
+    "Path": "Images/Items/key"
+  },
+  {
+    "ID": 21,
+    "Name": "衣服",
+    "Detail": "人不穿衣服，就会冷",
+    "Path": "Images/Items/normal_clothes_2"
+  },
+  {
+    "ID": 22,
+    "Name": "衣服",
+    "Detail": "我超喜欢粉红色的",
+    "Path": "Images/Items/normal_clothes_3"
+  },
+  {
+    "ID": 23,
+    "Name": "衣服",
+    "Detail": "绿色我也挺喜欢的",
+    "Path": "Images/Items/normal_clothes_4"
+  },
+  {
+    "ID": 24,
+    "Name": "准考证",
+    "Detail": "欢迎报考华南理工大学继续教育学院",
+    "Path": "Images/Items/admission_ticket"
+  }
+]
