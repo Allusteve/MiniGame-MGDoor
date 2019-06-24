@@ -19,6 +19,7 @@ public class CatMovement : MonoBehaviour
 
 
     int Direction = 1;
+    
 
 
     // Start is called before the first frame update

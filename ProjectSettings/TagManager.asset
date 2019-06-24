@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PlayerView
   - PlayerRegion
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -45,4 +46,7 @@ TagManager:
     locked: 0
   - name: collide
     uniqueID: 1019411921
+    locked: 0
+  - name: ThrowGame
+    uniqueID: 4099320749
     locked: 0
